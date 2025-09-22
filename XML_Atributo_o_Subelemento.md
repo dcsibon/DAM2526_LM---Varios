@@ -1,4 +1,4 @@
-## 📌 Cuándo usar **atributos**
+## 📌 ¿Cuándo usar **atributos**?
 
 1. **Metadatos** o propiedades de un elemento, es decir, información que lo **califica**.
 
@@ -17,8 +17,6 @@
 3. Cuando la información es **única y no repetible** para ese elemento.
 
 4. Cuando se quiere usar como **clave** o referencia.
-
----
 
 ## 📌 Cuándo usar **subelementos**
 
@@ -41,14 +39,10 @@
 
    * Ejemplo: varios `<actor>` dentro de una `<pelicula>`.
 
----
-
-## 📌 Regla práctica (muy citada)
+## 📌 Regla práctica
 
 * **Atributos → describen** (metadatos).
 * **Elementos → contienen** (datos principales).
-
----
 
 ## 📌 Ejemplo comparativo
 
